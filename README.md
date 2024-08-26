@@ -10,3 +10,5 @@ Olá, meu nome é **Louie Nery**! Tenho **18 anos** e curso **Análise e Desenvo
 
 ## Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=c,github&theme=dark)](https://skillicons.dev)
+
+![Snake animation](https://github.com/louvpiie/louvpiie/blob/output/github-contribution-grid-snake.svg)

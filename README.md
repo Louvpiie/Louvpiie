@@ -9,4 +9,4 @@ Olá, meu nome é **Louie Nery**! Tenho **18 anos** e curso **Análise e Desenvo
 *"If I have to live, I'll live the best future"*
 
 ## Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,c,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,git,github&theme=dark)](https://skillicons.dev)

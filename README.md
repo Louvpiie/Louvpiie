@@ -1,6 +1,6 @@
 # Louie Nery
 
-Olá, meu nome é **Louie Nery**! Tenho **18 anos** e curso **Análise e Desenvolvimento de Sistemas (Presencial)** na **Universidade Católica de Brasília**. Sou iniciante na área e pretendo obter mais conhecimentos.
+Olá, meu nome é **Louie Nery**! Tenho **19 anos** e curso **Análise e Desenvolvimento de Sistemas (Presencial)** na **Universidade Católica de Brasília**. Sou iniciante na área e pretendo obter mais conhecimentos.
 
 [![Instagram Badge](https://img.shields.io/badge/-@Louvpiie__-cca0f7?style=flat-square&labelColor=cca0f7&logo=instagram&logoColor=white&link=https://instagram.com/louvpiie_)](https://instagram.com/louvpiie_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Louie%20Nery-cca0f7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louienery/)](https://www.linkedin.com/in/louienery/) 

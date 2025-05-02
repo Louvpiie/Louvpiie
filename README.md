@@ -4,13 +4,13 @@ Olá, meu nome é **Louie Nery**! Tenho **19 anos** e curso **Análise e Desenvo
 
 <p>
 <a href="https://www.linkedin.com/in/louie-nery-492441325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/louvpiie" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:louie.nery1500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -19,11 +19,9 @@ Olá, meu nome é **Louie Nery**! Tenho **19 anos** e curso **Análise e Desenvo
 ## Minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,git,github,mysql,vscode,figma&theme=dark)](https://skillicons.dev)
 
--- 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francine02&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francine02&theme=tokyonight" alt="Github estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louvpiie&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Louvpiie&theme=tokyonight" alt="Github estatísticas"/>
 </div>
 
 <br>

@@ -1,12 +1,35 @@
-# Louie Nery
+# Bem vindo!
 
 Olá, meu nome é **Louie Nery**! Tenho **19 anos** e curso **Análise e Desenvolvimento de Sistemas (Presencial)** na **Universidade Católica de Brasília**. Sou iniciante na área e pretendo obter mais conhecimentos.
 
-[![Instagram Badge](https://img.shields.io/badge/-@Louvpiie__-cca0f7?style=flat-square&labelColor=cca0f7&logo=instagram&logoColor=white&link=https://instagram.com/louvpiie_)](https://instagram.com/louvpiie_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Louie%20Nery-cca0f7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louienery/)](https://www.linkedin.com/in/louienery/) 
-[![Email Badge](https://img.shields.io/badge/-louie.nery1500@gmail.com-cca0f7?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:louie.nery1500@gmail.com)](mailto:louie.nery1500@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/louie-nery-492441325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/louvpiie" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:louie.nery1500@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 *"If I have to live, I'll live the best"*
 
 ## Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,git,github,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,git,github,mysql,vscode,figma&theme=dark)](https://skillicons.dev)
+
+-- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francine02&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francine02&theme=tokyonight" alt="Github estatísticas"/>
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
+</picture>

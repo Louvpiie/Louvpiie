@@ -1,8 +1,8 @@
-<h1 align="center">Bem vindo!</h1>
+<h1 align="center">Bem vindo!✨</h1>
 
 Olá, meu nome é **Louie Nery**! Curso **Análise e Desenvolvimento de Sistemas (Presencial)** na **Universidade Católica de Brasília**. Sou iniciante na área e pretendo obter mais conhecimentos.
 
-Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma primeira experiência profissional.
+Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma primeira experiência profissional.🖥️
 
 <br>
 
@@ -20,12 +20,30 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 ---
 
-*"If I have to live, I'll live the best"*
+<img align="right" src="https://i.pinimg.com/736x/c0/94/a3/c094a3a07ad353139a2b3e42dad4e270.jpg" width="120" />
+
+> _"Se uma pessoa não tem sonhos, não tem razão de viver."_ 🧡  
+> — **Ayrton Senna**
+<br>
 
 ---
 
 ## Minhas habilidades
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,git,github,mysql,vscode,figma&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60"/>
+</p>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louvpiie&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>

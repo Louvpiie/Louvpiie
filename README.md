@@ -20,6 +20,7 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 ---
 
+<br>
 <img align="right" src="https://i.pinimg.com/736x/c0/94/a3/c094a3a07ad353139a2b3e42dad4e270.jpg" width="120" />
 
 > _"Se uma pessoa não tem sonhos, não tem razão de viver."_ 🧡  

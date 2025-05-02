@@ -10,7 +10,7 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 <a href="https://www.linkedin.com/in/louie-nery-492441325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/louvpiie" target="_blank">
+  <a href="https://instagram.com/louvpiie_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:louie.nery1500@gmail.com">

@@ -24,7 +24,7 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 <br>
 
-> _"Se uma pessoa não tem sonhos, não tem razão de viver."_ ❤️  
+> _"Se uma pessoa não tem sonhos, não tem razão de viver."_ 💟  
 > — **Ayrton Senna**
 
 <br>
@@ -63,6 +63,6 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 ---
 
-<p align="center">Obrigado pela visita!💟</p>
+<p align="center">Obrigado pela visita!</p>
 
 

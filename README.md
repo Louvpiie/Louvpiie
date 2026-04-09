@@ -48,13 +48,6 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Louvpiie&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Louvpiie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github status"/>
-</div>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">

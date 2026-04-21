@@ -1,31 +1,30 @@
-<h1 align="center">Bem vindo!✨</h1>
+<img align="center" src="image/purple-heart-purple.gif" width="200" />
 
-Olá, meu nome é **Louie Nery**! Curso **Análise e Desenvolvimento de Sistemas (Presencial)** na **Universidade Católica de Brasília**. Sou iniciante na área e pretendo obter mais conhecimentos.
-
-Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma primeira experiência profissional.🖥️
+* Curso **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
+* Meu objetivo é ser concursado na área.🖥️
 
 <br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/louie-nery-492441325/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%237E2ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/louvpiie_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%239C59D8?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:louie.nery1500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%238E43D2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<img align="right" src="https://i.pinimg.com/736x/c0/94/a3/c094a3a07ad353139a2b3e42dad4e270.jpg" width="120" />
+<img align="right" src="image/purple-heart-purple.gif" width="120" />
 
 <br>
 
-> _"Se uma pessoa não tem sonhos, não tem razão de viver."_ 💟  
-> — **Ayrton Senna**
+> _"Viva sua vida, é sua de qualquer maneira."_ 💟  
+> — **BTS**
 
 <br>
 
@@ -33,17 +32,25 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
 
 ## Minhas habilidades
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<!-- Front-end -->
+  <img src="https://img.shields.io/badge/HTML5-A455FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-BC7CFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-B069FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-C78FFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-9347FA?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-BE86FE?style=for-the-badge&logo=canva&logoColor=white" />
+  
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/TypeScript-B069FF?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-A455FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-C78FFF?style=for-the-badge&logo=c&logoColor=white" />
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-BC7CFF?style=for-the-badge&logo=git&logoColor=white" />
+
+  </div>
 
 <br>
 
@@ -52,9 +59,3 @@ Meu objetivo é trabalhar em cybersecurity, porém ainda estou atrás de uma pri
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-<p align="center">Obrigado pela visita!</p>
-
-

@@ -2,7 +2,9 @@
   <img src="image/anime-style-galaxy-background.jpg" width="400" />
 </p>
 
----
+<p align="center">
+  <img src="image/diveder.png" width="100" />
+</p>
 
 * Curso **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
 * Meu objetivo é ser concursado na área.

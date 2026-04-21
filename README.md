@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="image/anime-style-galaxy-background.jpg" width="400" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=125&color=custom_gradient%0:E5C8FF,100:A458FF&text=Welcome&reversal=false&textBg=false&fontSize=50&fontColor=FFFFFFCF"/>
 
-<p align="center">
-  <img src="image/diveder.png" width="100" />
-</p>
+<br>
 
 * Curso **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
 * Meu objetivo é ser concursado na área.
@@ -23,7 +19,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" />
+</p>
 
 <img align="right" src="image/purple-heart-purple.gif" width="120" />
 
@@ -33,8 +31,11 @@
 > — **BTS**
 
 <br>
+<br>
 
----
+<p align="center">
+  <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> 
+</p>
 
 ## Minhas habilidades
 
@@ -65,3 +66,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Louvpiie/Louvpiie/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+<br>
+
+
+<p align="center">
+  <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> <img src="image/divider.png" width="200" /> 
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="image/anime-style-galaxy-background.jpg" width="400" />
+</p>

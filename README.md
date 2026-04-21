@@ -1,7 +1,11 @@
-<img align="center" src="image/purple-heart-purple.gif" width="200" />
+<p align="center">
+  <img src="image/anime-style-galaxy-background.jpg" width="400" />
+</p>
+
+---
 
 * Curso **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
-* Meu objetivo é ser concursado na área.🖥️
+* Meu objetivo é ser concursado na área.
 
 <br>
 

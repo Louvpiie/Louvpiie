@@ -2,7 +2,7 @@
 
 <br>
 
-* Meu objetivo é ser concursado na área de TI.
+Meu objetivo é ser concursado na área de TI.
 
 <br>
 

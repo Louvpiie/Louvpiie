@@ -2,8 +2,7 @@
 
 <br>
 
-* Curso **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
-* Meu objetivo é ser concursado na área.
+* Meu objetivo é ser concursado na área de TI.
 
 <br>
 
